@@ -340,7 +340,7 @@ info pwd | grep -B5 "options"
 ```bash
 history | grep "find"
 ```
-
+kullandigimiz kodlari hoca buraya kopyaladi
   grep "^li" techproeducation.txt
    34  grep "kernel.$" linux.txt
    35   grep -A3 "line 5" techproeducation.txt
